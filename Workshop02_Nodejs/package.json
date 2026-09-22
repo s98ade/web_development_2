@@ -1,0 +1,13 @@
+{
+  "name": "workshop02_nodejs",
+  "version": "1.0.0",
+  "description": "In this workshop, you will learn the fundamentals of **Node.js HTTP server** and **routing** by building a simple web server from scratch without using any frameworks.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
